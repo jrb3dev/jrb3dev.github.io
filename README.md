@@ -2,8 +2,7 @@
 Hello, world!
 Greetings from the Atlanta (GA, US) region!
 
-Me?
-https://www.linkedin.com/in/joseph-beckenbach-6643331/
+Me? <https://www.linkedin.com/in/joseph-beckenbach-6643331/>
 
 Long-serving polyglot software-system developer/tester/admin, mostly Unixen.
 Played on all levels of infrastructure, from voltage on up.
