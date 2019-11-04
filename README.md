@@ -22,7 +22,5 @@ Have used over a dozen computer languages for pay,
 including Ruby, Perl, C++, C, Java, FORTH, shells, and several assembly.
 Currently prefer working within Debian (Linux), Rails (Ruby), Perl ecosystems.
 
-2017-06:  returning to the work-a-day world after two years off.
+2019-11:  experimenting with products on iOS, MacOS, Linux platforms
 
-2017-06:  experimental "blog in a repo" underway
-<https://github.com/jrb3dev/bna-blog-in-a-repo>
